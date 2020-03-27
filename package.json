@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "author": "othmane elgoubi",
   "license": "MIT",
   "dependencies": {
     "next": "^4.2.2",
